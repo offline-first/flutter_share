@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../math-game/math_game/android/android.iml" filepath="$PROJECT_DIR$/../../math-game/math_game/android/android.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+4/android/android-firebase_admob.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+4/android/android-firebase_admob.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.5.0/android/android-firebase_dynamic_links.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.5.0/android/android-firebase_dynamic_links.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+6/android/android-package_info.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+6/android/android-package_info.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.2.0/android/android-path_provider.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.2.0/android/android-path_provider.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3+4/android/android-shared_preferences.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3+4/android/android-shared_preferences.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.1.2/android/android-url_launcher.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.1.2/android/android-url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../math-game/math_game/android/app/app.iml" filepath="$PROJECT_DIR$/../../math-game/math_game/android/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/app_review-1.0.0/android/app_review.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/app_review-1.0.0/android/app_review.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-5.0.0/android/firebase_analytics.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-5.0.0/android/firebase_analytics.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+8/android/firebase_core.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+8/android/firebase_core.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.8.2/android/flutter_local_notifications.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.8.2/android/flutter_local_notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_share.iml" filepath="$PROJECT_DIR$/flutter_share.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+4/android/package_info.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+4/android/package_info.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.1.0/android/path_provider.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.1.0/android/path_provider.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/screen-0.0.5/android/screen.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/screen-0.0.5/android/screen.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3/android/shared_preferences.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3/android/shared_preferences.iml" />
+      <module fileurl="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.0.3/android/url_launcher.iml" filepath="$USER_HOME$/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.0.3/android/url_launcher.iml" />
+    </modules>
+  </component>
+</project>

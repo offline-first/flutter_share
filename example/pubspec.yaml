@@ -1,0 +1,24 @@
+name: flutter_share_example
+description: Demonstrates how to use the flutter_share plugin.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider:   
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_share:
+    path: ../
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/

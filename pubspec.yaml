@@ -1,0 +1,22 @@
+name: flutter_share
+description: Share any
+version: 0.0.3
+author:
+homepage:
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+  flutter: ">=0.1.4 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: net.offlinefirst.flutter_share
+    pluginClass: FlutterSharePlugin
